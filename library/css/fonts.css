@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,900,300italic,400italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+
+
+/* Generated from Icomoon.io ============== */
+
+@font-face {
+	font-family: 'papericon';
+	src:url('fonts/papericon.eot');
+	src:url('fonts/papericon.eot?#iefix') format('embedded-opentype'),
+		url('fonts/papericon.ttf') format('truetype'),
+		url('fonts/papericon.woff') format('woff'),
+		url('fonts/papericon.svg#papericon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="picon-"], [class*=" picon-"] {
+	font-family: 'papericon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Modifications from original Icomoon generated styles =========== */
+	font-size: 1em;
+	bottom: -3px;
+	position: relative;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.picon-spinner:before {
+	content: "\e600";
+}
+.picon-home:before {
+	content: "\e601";
+}
+.picon-thumbs-up:before {
+	content: "\e602";
+}
+.picon-twitter:before {
+	content: "\e603";
+}
+.picon-facebook:before {
+	content: "\e604";
+}
+.picon-google-plus:before {
+	content: "\e605";
+}
+.picon-github:before {
+	content: "\e606";
+}
+.picon-menu:before {
+	content: "\e607";
+}
+.picon-location:before {
+	content: "\e608";
+}
+.picon-arrow-right:before {
+	content: "\e609";
+}
+.picon-arrow-left:before {
+	content: "\e60a";
+}
+.picon-search:before {
+	content: "\e60b";
+}
+.picon-plus:before {
+	content: "\e60c";
+}
+.picon-close:before {
+	content: "\e60d";
+}
+.picon-books:before {
+	content: "\e60e";
+}
+.picon-tag:before {
+	content: "\e60f";
+}
+.picon-folder-open:before {
+	content: "\e610";
+}
+.picon-user:before {
+	content: "\e611";
+}
+.picon-calendar:before {
+	content: "\e612";
+}
